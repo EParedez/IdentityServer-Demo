@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "MvcClient": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SSL_CERT_DIR": "/dev/null"
+      },
+      "applicationUrl": "http://localhost:5002"
+    }
+  }
+}
